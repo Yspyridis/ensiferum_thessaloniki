@@ -60,8 +60,8 @@ body {
   /* background-color: #000; */
   /* background-image: url("mzMXc2.jpg"); */
   background-image: url("1.jpg");
-  background-attachment: scroll;
-  background-repeat: no-repeat;
+  /* background-attachment: scroll; */
+  /* background-repeat: no-repeat; */
   background-position: 50% 0;
   background-size: cover;
 }
